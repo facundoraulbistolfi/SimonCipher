@@ -1,0 +1,10 @@
+C:\Users\FacundoBistolfi\NET\SimonCipher\SimonCipher\obj\Debug\SimonCipher.csprojAssemblyReference.cache
+C:\Users\FacundoBistolfi\NET\SimonCipher\SimonCipher\obj\Debug\SimonCipher.Form1.resources
+C:\Users\FacundoBistolfi\NET\SimonCipher\SimonCipher\obj\Debug\SimonCipher.Properties.Resources.resources
+C:\Users\FacundoBistolfi\NET\SimonCipher\SimonCipher\obj\Debug\SimonCipher.csproj.GenerateResource.cache
+C:\Users\FacundoBistolfi\NET\SimonCipher\SimonCipher\obj\Debug\SimonCipher.csproj.CoreCompileInputs.cache
+C:\Users\FacundoBistolfi\NET\SimonCipher\SimonCipher\bin\Debug\SimonCipher.exe.config
+C:\Users\FacundoBistolfi\NET\SimonCipher\SimonCipher\bin\Debug\SimonCipher.exe
+C:\Users\FacundoBistolfi\NET\SimonCipher\SimonCipher\bin\Debug\SimonCipher.pdb
+C:\Users\FacundoBistolfi\NET\SimonCipher\SimonCipher\obj\Debug\SimonCipher.exe
+C:\Users\FacundoBistolfi\NET\SimonCipher\SimonCipher\obj\Debug\SimonCipher.pdb
